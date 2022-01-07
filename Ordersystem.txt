@@ -1,0 +1,13 @@
+Order system
+Name: Aqsa
+Street: ABC
+City: Karachi
+Zipcode: 345
+Phone: 0331-4567899
+Meat: Pepperoni
+Vegetable: None
+Cheese: Normal
+Crust: Original
+Size: Medium
+Number of Pizza1
+Price: $8.99
